@@ -18,7 +18,7 @@ const data = [
   {
     quote: `“It's a good day to be an Eag.”`, 
     emoji: '👌', 
-    image: `url(assets/forest.jpg)`
+    image: `url(assets/swoop3.webp)`
   }
 ];
 
