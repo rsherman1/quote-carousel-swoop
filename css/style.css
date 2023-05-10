@@ -4,6 +4,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 body {  
+
+  /* sharpie font */
+  font-family: 'Sharpie-Regular';
+
+
+
   /* Horizontal and Vertical Center */
   display: flex;
   justify-content: center;
@@ -20,6 +26,7 @@ body {
 /* Apply Font */
 main {
   font-family: 'Sharpie';
+  
   font-size: 5vmin;
   text-align: center;
   
