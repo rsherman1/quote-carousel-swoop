@@ -16,7 +16,7 @@ const data = [
    image: `url(assets/tree.jpg)`
   },
   {
-    quote: `“We'll be ok now.”`, 
+    quote: `“It's a good day to be an Eag.”`, 
     emoji: '👌', 
     image: `url(assets/forest.jpg)`
   }
