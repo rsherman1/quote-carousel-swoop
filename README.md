@@ -10,4 +10,4 @@ A carousel of quotes.
 - Web experience that can be navigated without a mouse and keyboard
 
 ## Citations
-- Your citations and sources go here
+- [Favicon Generator]
