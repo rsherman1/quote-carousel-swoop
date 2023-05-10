@@ -11,3 +11,4 @@ A carousel of quotes.
 
 ## Citations
 - [Favicon Generator]
+- [Sharpie]https://www.fontshare.com/?q=Sharpie
