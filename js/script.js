@@ -11,14 +11,14 @@ const data = [
    image: `url(assets/cemetery1.jpg)`
   },  
   {
-   quote: `“Grow like a tree.”`, 
-   emoji: '🌲' , 
-   image: `url(assets/tree.jpg)`
+   quote: `“"I only regret that I have but one life to lose for my country."
+   – Nathan Hale”`,  
+   image: `url(assets/unknownsoldier.jpg)`
   },
   {
     quote: `“It's a good day to be an Eag.”`, 
     emoji: '👌', 
-    image: `url(assets/swoop3.webp)`
+    image: `url(assets/statuecloseup.jpg)`
   }
 ];
 
