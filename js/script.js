@@ -37,7 +37,7 @@ quote.innerHTML = "Colin is quotable.";
 // Check-Check: change emoji text
 emoji.innerHTML = "👍️";
 // Check-Check: background image
-bgImage.style.backgroundImage= 'url(/assets/mountain.jpg)';
+bgImage.style.backgroundImage= 'url(/assets/flag.jpg)';
 
 /*
  * Navigate to Items with Event Listeners
