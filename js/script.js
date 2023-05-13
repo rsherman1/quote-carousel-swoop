@@ -1,14 +1,14 @@
 /* Data to Show*/
 const data = [
   {
-   quote: `“Be like a mountain.”`, 
-   emoji: '🗻', 
-   image: `url(assets/mountain.jpg)`
+   quote: `““Those who have long enjoyed such privileges as we enjoy forget in time that men have died to win them.”
+   -FDR”`,  
+   image: `url(assets/flag.jpg)`
   }, 
   {
-   quote: `“Brave the oceans.”`, 
-   emoji: '🌊', 
-   image: `url(assets/ocean.jpg)`
+   quote: `“"Without memory, there is no culture. Without memory there would be no civilization, no future."
+   – Elie Wiesel”`, 
+   image: `url(assets/cemetery1.jpg)`
   },  
   {
    quote: `“Grow like a tree.”`, 
