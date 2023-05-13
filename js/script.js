@@ -16,7 +16,8 @@ const data = [
    image: `url(assets/unknownsoldier.jpg)`
   },
   {
-    quote: `“It's a good day to be an Eag.”`, 
+    quote: `“"A hero is someone who has given his or her life to something bigger than oneself."
+    – Joseph Campbell”`, 
     emoji: '👌', 
     image: `url(assets/statuecloseup.jpg)`
   }
