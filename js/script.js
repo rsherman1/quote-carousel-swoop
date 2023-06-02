@@ -4,25 +4,25 @@ const data = [
    quote: `“Those who have long enjoyed such privileges as we enjoy forget in time that men have died to win them.”
    -FDR`,  
    emoji: '🇺🇲'
-   image: `url(assets/flag.jpg)`
+   bgImage: `url(assets/flag.jpg)`
   }, 
   {
    quote: `"Without memory, there is no culture. Without memory there would be no civilization, no future."
    – Elie Wiesel`, 
    emoji: '🇺🇲'
-   image: `url(assets/cemetery1.jpg)`
+   bgImage: `url(assets/cemetery1.jpg)`
   },  
   {
    quote: `"I only regret that I have but one life to lose for my country."
    – Nathan Hale`,  
    emoji: '🇺🇲'
-   image: `url(assets/unknownsoldier.jpg)`
+   bgImage: `url(assets/unknownsoldier.jpg)`
   },
   {
     quote: `“"A hero is someone who has given his or her life to something bigger than oneself."
     – Joseph Campbell”`, 
     emoji: '🇺🇲', 
-    image: `url(assets/statuecloseup.jpg)`
+    bgImage: `url(assets/statuecloseup.jpg)`
   }
 ];
 
