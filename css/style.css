@@ -5,10 +5,6 @@
 
 body {  
 
-  /* sharpie font */
-  font-family: 'Sharpie-Regular';
-
-
 
   /* Horizontal and Vertical Center */
   display: flex;
@@ -25,7 +21,7 @@ body {
 
 /* Apply Font */
 main {
-  font-family: 'Fondamento';
+  font-family: 'Abril Fatface';
   color: gold;
   font-size: 24px;
   text-align: center;
