@@ -3,19 +3,19 @@ const data = [
   {
    quote: `“Those who have long enjoyed such privileges as we enjoy forget in time that men have died to win them.”
    -FDR`,  
-   emoji: '🇺🇲'
+   emoji: '🇺🇲',
    bgImage: `url(assets/flag.jpg)`
   }, 
   {
    quote: `"Without memory, there is no culture. Without memory there would be no civilization, no future."
    – Elie Wiesel`, 
-   emoji: '🇺🇲'
+   emoji: '🇺🇲',
    bgImage: `url(assets/cemetery1.jpg)`
   },  
   {
    quote: `"I only regret that I have but one life to lose for my country."
    – Nathan Hale`,  
-   emoji: '🇺🇲'
+   emoji: '🇺🇲',
    bgImage: `url(assets/unknownsoldier.jpg)`
   },
   {
