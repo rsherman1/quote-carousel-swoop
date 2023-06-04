@@ -2,7 +2,7 @@
 const data = [
   {
    quote: `“Those who have long enjoyed such privileges as we enjoy forget in time that men have died to win them.”
-   -FDR`,  
+   - FDR`,  
    emoji: '🇺🇲',
    bgImage: `url(assets/flag.jpg)`
   }, 
@@ -19,8 +19,8 @@ const data = [
    bgImage: `url(assets/unknownsoldier.jpg)`
   },
   {
-    quote: `“"A hero is someone who has given his or her life to something bigger than oneself."
-    – Joseph Campbell”`, 
+    quote: `"A hero is someone who has given his or her life to something bigger than oneself."
+    – Joseph Campbell`, 
     emoji: '🇺🇲', 
     bgImage: `url(assets/statuecloseup.jpg)`
   }
