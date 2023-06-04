@@ -41,7 +41,7 @@ quote.innerHTML = "Memorial Day 2023";
 // Check-Check: change emoji text
 emoji.innerHTML = "🇺🇲";
 // Check-Check: background image
-bgImage.style.backgroundImage= 'url(/assets/flag.jpg)';
+bgImage.style.backgroundImage= `url(/assets/flag.jpg)`;
 
 /*
  * Navigate to Items with Event Listeners
