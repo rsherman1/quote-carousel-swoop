@@ -4,7 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 body {  
-
+  
+  font-family: 'Abril Fatface';
+  color: gold;
+  font-size: 24px;
 
   /* Horizontal and Vertical Center */
   display: flex;
@@ -21,9 +24,6 @@ body {
 
 /* Apply Font */
 main {
-  font-family: 'Abril Fatface';
-  color: gold;
-  font-size: 24px;
   text-align: center;
   
   /* Add contrast to text */
