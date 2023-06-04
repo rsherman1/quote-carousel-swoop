@@ -24,6 +24,7 @@ body {
 
 /* Apply Font */
 main {
+  padding-top: 50px;
   text-align: center;
   
   /* Add contrast to text */
