@@ -6,7 +6,7 @@
 body {  
   
   font-family: 'Abril Fatface';
-  color: gold;
+  color: silver;
   font-size: 24px;
 
   /* Horizontal and Vertical Center */
@@ -28,7 +28,7 @@ main {
   text-align: center;
   
   /* Add contrast to text */
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: rgba(90, 87, 87, 0.25);
   border-radius: 15px;
 
 }
