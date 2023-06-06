@@ -51,11 +51,11 @@ bgImage.style.backgroundImage= `url(/assets/flag.jpg)`;
 // initialize item number
 let itemNumber = 0;
 // get next button
-const nextButton = document.querySelector("img.next");
+const nextButton = document.querySelector("img.nextwhite");
 // get previous button
-const prevButton = document.querySelector("img.prev");
+const prevButton = document.querySelector("img.prevwhite");
 // get random button
-const randButton = document.querySelector("img.random");
+const randButton = document.querySelector("img.randomwhite");
 
 // listen for clicks on next button
 nextButton.addEventListener("click", () => {
