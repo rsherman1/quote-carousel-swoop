@@ -28,7 +28,7 @@ main {
   text-align: center;
   
   /* Add contrast to text */
-  background-color: rgba(90, 87, 87, 0.25);
+  background-color: rgba(90, 87, 87, 0.582);
   border-radius: 15px;
 
 }
