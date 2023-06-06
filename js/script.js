@@ -8,19 +8,20 @@ const data = [
   }, 
   {
    quote: `"Without memory, there is no culture. Without memory there would be no civilization, no future."
-   – Elie Wiesel`, 
+   
+  - Elie Wiesel`, 
    emoji: '🇺🇲',
    bgImage: `url(assets/cemetery1.jpg)`
   },  
   {
    quote: `"I only regret that I have but one life to lose for my country."
-   – Nathan Hale`,  
+   - Nathan Hale`,  
    emoji: '🇺🇲',
    bgImage: `url(assets/unknownsoldier.jpg)`
   },
   {
     quote: `"A hero is someone who has given his or her life to something bigger than oneself."
-    – Joseph Campbell`, 
+    - Joseph Campbell`, 
     emoji: '🇺🇲', 
     bgImage: `url(assets/statuecloseup.jpg)`
   }
