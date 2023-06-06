@@ -70,7 +70,7 @@ nextButton.addEventListener("click", () => {
   // display data based on array index
   quote.innerHTML = data[itemNumber].quote;
   emoji.innerHTML = data[itemNumber].emoji;
-  bgImage.style.backgroundImage = data[itemNumber].image;
+  bgImage.style.backgroundImage = data[itemNumber].bgImage;
   
 });
   
@@ -88,7 +88,7 @@ prevButton.addEventListener("click", () => {
   // display data based on array index
   quote.innerHTML = data[itemNumber].quote;
   emoji.innerHTML = data[itemNumber].emoji;
-  bgImage.style.backgroundImage = data[itemNumber].image;
+  bgImage.style.backgroundImage = data[itemNumber].bgImage;
 });
 
 // listen for clicks on random button
@@ -100,7 +100,7 @@ randButton.addEventListener('click', () => {
   // display data based random number
   quote.innerHTML = data[randomNumber].quote;
   emoji.innerHTML = data[randomNumber].emoji;
-  bgImage.style.backgroundImage = data[randomNumber].image;
+  bgImage.style.backgroundImage = data[randomNumber].bgImage;
   
 });
 
@@ -125,7 +125,7 @@ document.addEventListener('keyup', (event) => {
   // display data based on array index
   quote.innerHTML = data[itemNumber].quote;
   emoji.innerHTML = data[itemNumber].emoji;
-  bgImage.style.backgroundImage = data[itemNumber].image;
+  bgImage.style.backgroundImage = data[itemNumber].bgImage;
     
   }
   
@@ -144,7 +144,7 @@ document.addEventListener('keyup', (event) => {
   // display data based on array index
   quote.innerHTML = data[itemNumber].quote;
   emoji.innerHTML = data[itemNumber].emoji;
-  bgImage.style.backgroundImage = data[itemNumber].image;
+  bgImage.style.backgroundImage = data[itemNumber].bgImage;
   }
   
   // Random Spacebar
@@ -156,7 +156,7 @@ document.addEventListener('keyup', (event) => {
     // display data based random number
     quote.innerHTML = data[randomNumber].quote;
     emoji.innerHTML = data[randomNumber].emoji;
-    bgImage.style.backgroundImage = data[randomNumber].image;
+    bgImage.style.backgroundImage = data[randomNumber].bgImage;
   
   }
   
