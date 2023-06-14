@@ -17,7 +17,7 @@ const data = [
    quote: `"I only regret that I have but one life to lose for my country."
    - Nathan Hale`,  
    emoji: '🇺🇲',
-   bgImage: `url(assets/unknownsoldier.jpg)`
+   bgImage: `url(assets/iwojima.jpg)`
   },
   {
     quote: `"A hero is someone who has given his or her life to something bigger than oneself."
