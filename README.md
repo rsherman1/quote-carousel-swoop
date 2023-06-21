@@ -1,8 +1,6 @@
 # Quote Carousel
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/quote-carousel)
-
-A carousel of quotes.
+A carousel of quotes for Memorial Day.
 
 ## Why does this exist? 
 - Understand pros and cons of the UI pattern: sliders or carousels
@@ -11,4 +9,5 @@ A carousel of quotes.
 
 ## Citations
 - [Favicon Generator]
-- [Sharpie]https://www.fontshare.com/?q=Sharpie
+- Abril Fatface
+
